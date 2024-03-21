@@ -1,4 +1,4 @@
-package Udemy2Classes;
+package Classes_2;
 
 public class MainBank {
 

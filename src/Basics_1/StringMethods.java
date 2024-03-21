@@ -1,4 +1,4 @@
-package Udemy1Basics;
+package Basics_1;
 
 public class StringMethods {
 

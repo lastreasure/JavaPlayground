@@ -1,4 +1,4 @@
-package Udemy3Inheritance;
+package Inheritance_3;
 
 public class Fish extends Animal {
 

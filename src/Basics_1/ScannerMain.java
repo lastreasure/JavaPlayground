@@ -1,4 +1,4 @@
-package Udemy1Basics;
+package Basics_1;
 import java.util.Scanner;
 
 public class ScannerMain {
